@@ -97,6 +97,7 @@ namespace SeleniumTests
             } finally {
                 acceptNextAlert = true;
             }
+            
         }
     }
 
